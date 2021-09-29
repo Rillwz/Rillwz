@@ -5,7 +5,7 @@ I'm from Indonesia, living in Sampang and currently working on paper.
 
 ## Blog & Website
 
-You can find out my articles collection in here <a href="http://Rillwz.Medium.com">Rillwz.Medium.com</a>
+You can find out my latest articles in here <a href="http://Rillwz.Medium.com">Rillwz.Medium.com</a>
 
 ## Technologies & Tools
 
