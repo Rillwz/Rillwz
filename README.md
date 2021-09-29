@@ -1,4 +1,4 @@
-## Hello Folks 👋
+## Hi Folks 👋
 
 My Name Yusril Ihsanul Alim and I'm a Software Developer. <br>
 I'm from Indonesia, living in Sampang and currently working on paper.
