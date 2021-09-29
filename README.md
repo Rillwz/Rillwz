@@ -7,6 +7,12 @@ I'm from Indonesia, living in Sampang and currently working on paper.
 
 You can find out my latest articles in here <a href="http://Rillwz.Medium.com">Rillwz.Medium.com</a>
 
+## Interest
+
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux%20KDE-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a) 
