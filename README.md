@@ -38,11 +38,6 @@ You can find out my latest articles in here <a href="http://Rillwz.Medium.com">R
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 
-
-
-
-
-
 <!--
 **Rillwz/Rillwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
