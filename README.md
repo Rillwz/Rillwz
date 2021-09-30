@@ -1,7 +1,6 @@
-## Hi Folks 👋
-
-My Name is Yusril Ihsanul Alim and I'm a Self-Taught Software Developer. <br>
-I'm from Indonesia, living in Sampang and currently working on paper.
+## Hii, Folks!
+My name is Yusril Ihsanul Alim, Self-Taught Software Developer <br>
+from Indonesia, living in Sampang and currently working on paper.
 
 ## Blog & Website
 
