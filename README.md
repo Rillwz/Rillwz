@@ -1,10 +1,3 @@
-## Hii, Folks!
-
-
-## Blog & Website
-
-... <a href="http://Rillwz.Medium.com">Rillwz.Medium</a> <br>
-
 ## Interest on
 
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
