@@ -4,7 +4,6 @@
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-## Technologies & Tools
 <!--
 **Rillwz/Rillwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
